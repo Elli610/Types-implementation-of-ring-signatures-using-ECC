@@ -1,0 +1,15 @@
+G : 
+q : prime number 
+P : Point générateur de la courbe
+Ppub : public key og f the system: Ppub = x * P
+x: master private key
+3 hash functions :H1, H2, H3
+W: un set de users
+U: un set de clés publiques appartenants a chaque user
+m: message
+sigma: a ring signature
+PKi: the public key of user 	
+ti : secret value of user i
+Ti: pubKey of user i
+Ti = ti * P 
+zi = ri + ki * x
